@@ -1,11 +1,12 @@
 # Pfizer Vaccine Event Study
 
-This project analyzes the stock market reaction to Pfizer's
-November 9, 2020 COVID-19 vaccine announcement.
+This project analyzes the stock market reaction to Pfizer's November 9, 2020 COVID-19 vaccine announcement.
+
+## My Role
+I conducted the statistical analysis for this project. Specifically, I implemented the event study methodology, estimated the market model, computed abnormal returns and cumulative abnormal returns, and generated all statistical graphs and visualizations used in the analysis.
 
 ## Research Question
-How quickly did financial markets incorporate the information,
-and did related firms experience spillover effects?
+How quickly did financial markets incorporate the information, and did related firms experience spillover effects?
 
 ## Methodology
 Event study using the market model.
@@ -20,13 +21,9 @@ Firms analyzed:
 - AstraZeneca (AZN)
 
 ## Key Findings
-Pfizer’s stock increased approximately 13% within the first hour
-of trading following the announcement, indicating rapid market
-information incorporation.
+Pfizer’s stock increased approximately 13% within the first hour of trading following the announcement, indicating rapid market information incorporation.
 
-Moderna experienced a gradual increase in cumulative abnormal
-returns over the following days, suggesting technology spillover
-effects for mRNA vaccine developers.
+Moderna experienced a gradual increase in cumulative abnormal returns over the following days, suggesting technology spillover effects for mRNA vaccine developers.
 
 ## Paper
 See the full paper: `paper.pdf`
